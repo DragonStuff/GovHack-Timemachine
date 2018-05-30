@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="200dip"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/topLayout">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/imgBackground"
+            android:src="@drawable/timemachine_bg"
+            android:alpha="0.4"
+            android:scaleType="centerCrop" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageLayout"
+            android:layout_marginRight="8dip"
+            android:layout_marginBottom="8dip"
+            android:layout_centerInParent="true">
+
+            <ImageView
+                android:layout_width="128dip"
+                android:layout_height="128dip"
+                android:id="@+id/icon"
+                android:src="@drawable/ic_launcher"
+                android:tint="#cce5e5e5"
+                android:visibility="invisible"
+                android:scaleType="centerCrop" />
+
+            <ProgressBar
+                android:layout_width="80dip"
+                android:layout_height="80dip"
+                android:id="@+id/progressBar"
+                android:layout_alignParentRight="false"
+                android:layout_alignParentEnd="false"
+                android:visibility="gone"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Time Machine"
+            android:id="@+id/lblDisplayname"
+            android:textStyle="bold"
+            android:maxLines="1"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:paddingBottom="8dip"
+            android:textSize="24dip"
+            android:textColor="@color/ts_darkgray" />
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/topLayout" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/middleLayout"
+            android:padding="4dip">
+
+    <!--        <ListView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/lvMenu"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:footerDividersEnabled="true" />-->
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="LEGEND"
+                android:id="@+id/textView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="8dip" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="4dip"
+                android:id="@+id/l1"
+                android:layout_below="@+id/textView">
+
+                <ImageView
+                    android:layout_width="64dip"
+                    android:layout_height="64dip"
+                    android:id="@+id/iv1"
+                    android:src="@drawable/ic_buildings"
+                    android:layout_marginRight="8dip" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Building Photos"
+                    android:id="@+id/lbl1"
+                    android:textSize="16dip"
+                    android:layout_toRightOf="@+id/iv1"
+                    android:layout_toLeftOf="@+id/btn1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12dip"
+                    android:text="Photographs from State Library of New South Wales"
+                    android:id="@+id/lbla1"
+                    android:layout_below="@+id/lbl1"
+                    android:layout_toRightOf="@+id/iv1"
+                    android:layout_toLeftOf="@+id/btn1" />
+
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="New ToggleButton"
+                    android:id="@+id/btn1"
+                    android:textOff="Hide"
+                    android:textOn="Show"
+                    android:enabled="true"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:checked="true" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/l3"
+                android:layout_marginBottom="4dip"
+                android:layout_below="@+id/l2">
+
+                <ImageView
+                    android:layout_width="64dip"
+                    android:layout_height="64dip"
+                    android:id="@+id/iv3"
+                    android:src="@drawable/ic_news"
+                    android:layout_marginRight="8dip" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Newspaper Articles"
+                    android:id="@+id/lbl3"
+                    android:textSize="16dip"
+                    android:layout_toRightOf="@+id/iv3"
+                    android:layout_toLeftOf="@+id/btn3" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12dip"
+                    android:text="Images, events, newspaper articles and metadata."
+                    android:id="@+id/lbla3"
+                    android:layout_below="@+id/lbl3"
+                    android:layout_toRightOf="@+id/iv3"
+                    android:layout_toLeftOf="@+id/btn3" />
+
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="New ToggleButton"
+                    android:id="@+id/btn3"
+                    android:textOff="Hide"
+                    android:textOn="Show"
+                    android:enabled="true"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:checked="true" />
+            </RelativeLayout>
+
+            <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/l2"
+            android:layout_marginBottom="4dip"
+            android:layout_below="@+id/l1">
+
+            <ImageView
+                android:layout_width="64dip"
+                android:layout_height="64dip"
+                android:id="@+id/iv2"
+                android:src="@drawable/ic_landscapes"
+                android:layout_marginRight="8dip" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Landscape Photos"
+                android:id="@+id/lbl2"
+                android:textSize="16dip"
+                android:layout_toRightOf="@+id/iv2"
+                android:layout_toLeftOf="@+id/btn2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12dip"
+                android:text="Photographs from State Records"
+                android:id="@+id/lbla2"
+                android:layout_below="@+id/lbl2"
+                android:layout_toRightOf="@+id/iv2"
+                android:layout_toLeftOf="@+id/btn2" />
+
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New ToggleButton"
+                android:id="@+id/btn2"
+                android:textOff="Hide"
+                android:textOn="Show"
+                android:enabled="true"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:checked="true" />
+        </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/l4"
+                android:layout_marginBottom="4dip"
+                android:layout_below="@+id/l3">
+
+                <ImageView
+                    android:layout_width="64dip"
+                    android:layout_height="64dip"
+                    android:id="@+id/iv4"
+                    android:src="@drawable/ic_criminal"
+                    android:layout_marginRight="8dip" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Crime Data"
+                    android:id="@+id/lbl4"
+                    android:textSize="16dip"
+                    android:layout_toRightOf="@+id/iv4"
+                    android:layout_toLeftOf="@+id/btn4" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12dip"
+                    android:text="Show crime data in selected locations"
+                    android:id="@+id/lbla4"
+                    android:layout_below="@+id/lbl4"
+                    android:layout_toRightOf="@+id/iv4"
+                    android:layout_toLeftOf="@+id/btn4" />
+
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="New ToggleButton"
+                    android:id="@+id/btn4"
+                    android:textOff="Hide"
+                    android:textOn="Show"
+                    android:enabled="true"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:checked="true" />
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Visual Studio Projects\git\timemachine\timemachine\libs\slidingmenu\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Visual Studio Projects\git\timemachine\timemachine\libs\slidingmenu\src\debug\assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,3 @@
+include ':timemachine', ':maputils', ':slidingmenu'
+project(':maputils').projectDir = new File('timemachine/libs/maputils')
+project(':slidingmenu').projectDir = new File('timemachine/libs/slidingmenu')

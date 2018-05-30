@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\ormlite-core-4.48-e997c3d497cc94c392e884bdfa4a51ced9c095a7.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\timemachine\libs\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\classes-46cd64ddb3fad18fd91c15e35f0b425b6b80845f.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.4.52\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\classes-a4ad0c88093d762b48e89cb62f701a6aeae60742.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\build\intermediates\exploded-aar\com.google.maps.android\maputils\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="da1372b45f0ea0eeaf8caa31897cfc846244a637"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\library-2.4.0-a5949083b997b25fec9530077118458f920c7eba.jar"
+        jar="C:\Users\Jeri\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\support-v4-19.0.1-04dde37e48405b4442ed2e114457f34f6f27cab4.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\ormlite-android-4.48-467a947a25a7ace827e7ecd5d8d2c014df35a21d.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\timemachine\libs\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\classes-44b0c3c2dc544ed1c2892a41376d69fa1e9907c2.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\build\intermediates\exploded-aar\it.sephiroth.android.library.floatingmenu\floatingmenu\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="42575b8266dcb405d3ca729e937757085c8b0871"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\gson-2.2.2-91679d77c123f220097a67cbd8c529e88c56d728.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\timemachine\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\classes-439695cc32a03fae166be906aad71350ecb9fefd.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\build\intermediates\exploded-aar\com.github.castorflex.smoothprogressbar\library\0.3.3\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b140eafdb94aff8f4eeb5e89e0cd9fec81199f0f"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\classes-f004736717043bc3c175f794311d57510c34ce9a.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-with-sources-55ed4cd165d30266bd5009484b6dbf6072817bb4.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\timemachine\libs\universal-image-loader-1.9.2-with-sources.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="111169c43b8a601f571585f75d998e6027e48ff4"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\classes-f49be559a6fad883e7bab451c4adbd11a57c1cbd.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\build\intermediates\exploded-aar\timemachine\slidingmenu\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a919ecf1a082ae4e99c0605cf7c87fc9ccf18715"/>
+    <item
+        dex="C:\Visual Studio Projects\git\timemachine\timemachine\build\intermediates\pre-dexed\debug\classes-b560f02b826d762e3dcd412953e17d5b0d13653b.jar"
+        jar="C:\Visual Studio Projects\git\timemachine\build\intermediates\exploded-aar\com.doomonafireball.betterpickers\library\1.5.2\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="73d0c7e564f21532cdda0b0c93b07be5aee87e7d"/>
+
+</pre-dex-items>

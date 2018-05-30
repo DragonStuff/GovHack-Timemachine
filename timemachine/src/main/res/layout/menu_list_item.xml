@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:paddingTop="8dip"
+    android:paddingRight="8dip"
+    android:paddingBottom="8dip"
+    android:paddingLeft="4dip">
+
+
+    <ImageView
+        android:layout_width="32dip"
+        android:layout_height="32dip"
+        android:id="@+id/icon"
+        android:layout_alignParentTop="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:layout_marginRight="8dip"
+        android:focusableInTouchMode="false"
+        android:tint="@color/ts_midgray"
+        android:layout_centerVertical="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/title"
+        android:layout_alignTop="@+id/icon"
+        android:layout_toRightOf="@+id/icon"
+        android:textColor="@color/ts_midgray" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Small Text"
+        android:id="@+id/subtitle"
+        android:layout_alignParentTop="false"
+        android:layout_toRightOf="@+id/icon"
+        android:layout_below="@+id/title"
+        android:textColor="@color/ts_midgray"
+        android:textSize="10dp" />
+</RelativeLayout>

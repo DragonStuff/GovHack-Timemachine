@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ts_green_faded">#33007800</color>
+    <color name="ts_green">#FF007800</color>
+    <color name="ts_bar_bottom">#FF007800</color>
+    <color name="ts_bar_top">#FF007800</color>
+    <color name="ts_midgray">#FF666666</color>
+    <color name="ts_gray">#E5E5E5</color>
+    <color name="ts_darkgray">#555555</color>
+    <color name="ts_white">#FFFFFF</color>
+    <color name="ts_bg">#F2F2F2</color>
+    <!--
+        <color name="ts_button_deselected">#343434</color>
+        <color name="ts_button_selected">#FFFFFF</color>
+    -->
+    <color name="ts_lock_active">#ff272d</color>
+    <color name="ts_camera">#343434</color>
+
+    <color name="alert">#CC0000</color>
+    <color name="confirm">#FF8800</color>
+    <color name="info">#669900</color>
+</resources>

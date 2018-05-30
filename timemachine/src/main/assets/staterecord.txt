@@ -1,0 +1,1152 @@
+[
+  {
+    "caption":"Sketch shewing the difference of admeasurements between Mr Armstrong private surveyor and Assistant Surveyor Russell of Caleb Wilson's allotment in George Street [Sketch book 4 folio 15]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/01/1839",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000024.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000024.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"Reverend William Cowper parsonage at Spring and Pitt Streets [Sketch book 4 folio 38]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"07/06/1840",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000071.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000071.jpg",
+    "Lat":-33.8252309,
+    "Lon":150.9946864,
+    "Decade":1860
+  },
+  {
+    "caption":"School of Arts corner of Hunter and Spring Streets [Sketch book 4 folio 47]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"11/09/1840",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000091.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000091.jpg",
+    "Lat":-33.8645828,
+    "Lon":151.2093573,
+    "Decade":1860
+  },
+  {
+    "caption":"Sketch shewing the building of Argyle Street and the encroachments thereon",
+    "title":"Surveyor General [I]",
+    "dateofwork":"15/06/1840",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000113.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000113.jpg",
+    "Lat":-34.0536032,
+    "Lon":150.6982086,
+    "Decade":1860
+  },
+  {
+    "caption":"Sketch shewing the pieceof land between thw present line of Gloucetser Street and the proposed line of New George Street applied for by F. Wilkinson [Sketch book 4 folio 59]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"23/08/1841",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000115.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000115.jpg",
+    "Lat":-33.8567283,
+    "Lon":151.2082611,
+    "Decade":1860
+  },
+  {
+    "caption":"Plan shewing two portions of land A and B taken from Mr John Smith to extend Melbourne Street Maitland [Sketch book 4 folio 58]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"15/10/1841",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000120.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X755]_a110_000120.jpg",
+    "Lat":-33.770994,
+    "Lon":150.7993824,
+    "Decade":1860
+  },
+  {
+    "caption":"[6] Plan shewing a piece of ground in advance of the section line of King Street East built on by Mr Samuel Terry - Sydney St James Parish [Sketch book 3 folio 2]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"26/11/1834",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000014.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000014.jpg",
+    "Lat":-33.8689057,
+    "Lon":151.2083175,
+    "Decade":1860
+  },
+  {
+    "caption":"[10] Charles Appleton Memo number 248 and encroachment on Kent Street  [Sketch book 3 folio 3]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"31/12/1839",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000018.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000018.jpg",
+    "Lat":-33.8698578,
+    "Lon":151.2047084,
+    "Decade":1860
+  },
+  {
+    "caption":"[12] Charles Appleton Memo number 247 and encroachment on Kent Street [Sketch book 3 folio 3]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"31/12/1839",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000021.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000021.jpg",
+    "Lat":-33.8698578,
+    "Lon":151.2047084,
+    "Decade":1860
+  },
+  {
+    "caption":"[24] Final adjustments of Laidleys and Dawlings land with William Street - Sydney Alexandria Parish [Sketch book 3 folio 7]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"31/12/1839",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000034.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000034.jpg",
+    "Lat":-33.875055,
+    "Lon":151.2211414,
+    "Decade":1860
+  },
+  {
+    "caption":"[35] Plan of Ground in the name of Frederick Wright Unwin in Section 92 - Sydney St Phillip [Sketch book 3 folio 14]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"12/06/1835",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000048.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000048.jpg",
+    "Lat":-33.8006958,
+    "Lon":151.194212,
+    "Decade":1860
+  },
+  {
+    "caption":"[39] Shewing roads to Muscle Brook [Sketch book 3 folio 16]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"10/07/1835",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000051.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000051.jpg",
+    "Lat":-33.8674869,
+    "Lon":151.2069902,
+    "Decade":1860
+  },
+  {
+    "caption":"[101] Projected boundary lines of Wilson's Wharf - Sydney St Phillip [Sketch book 3 folio 23]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"08/07/1835",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000068.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000068.jpg",
+    "Lat":-33.8006958,
+    "Lon":151.194212,
+    "Decade":1860
+  },
+  {
+    "caption":"[109] Extension of Wilson's Whard - Sydney St Phillip [Sketch book 3 folio 23]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/01/1835",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000069.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000069.jpg",
+    "Lat":-33.8006958,
+    "Lon":151.194212,
+    "Decade":1860
+  },
+  {
+    "caption":"[108] Land to be taken from Mr Smith for Greenhill Street - Maitland west [Sketch book 3 folio 23]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"09/03/1836",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000071.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000071.jpg",
+    "Lat":-33.7423016,
+    "Lon":150.9433752,
+    "Decade":1860
+  },
+  {
+    "caption":"[48] Explanatory of Longs allotment facing Cumberland and Princes Streets [Sketch book 3 folio 27]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"05/01/1856",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000077.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000077.jpg",
+    "Lat":-34.178433,
+    "Lon":150.975325,
+    "Decade":1860
+  },
+  {
+    "caption":"[50] Davis claim 1rod 8 perches allotment number 8 facing George Street [Sketch book 3 folio 28]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"08/12/1835",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000079a.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000079a.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"[50] Davis claim 1rod 8 perches allotment number 8 facing George Street [Sketch book 3 folio 28]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"08/12/1835",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000079b.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000079b.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"[52] Commisssion for Clergy and school estate claim of 30 perches and relating to exchanges at Fort Street [Sketch book 3 folio 30]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"23/03/1838",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000082.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000082.jpg",
+    "Lat":-33.8898638,
+    "Lon":151.1564744,
+    "Decade":1860
+  },
+  {
+    "caption":"Proposed new streets for Woolloomoolloo [Sketch book 3 folio 37 and 38]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"14/12/1835",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000091.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000091.jpg",
+    "Lat":-33.8008721,
+    "Lon":151.0016518,
+    "Decade":1860
+  },
+  {
+    "caption":"[63] Land decided in Unwins favour by Commissioner of Claims and Grants and Land required for new streets at right angles to Argyle Streets. [Sketch book 3 folio 40]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"1/01/1837",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000093.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000093.jpg",
+    "Lat":-33.8674869,
+    "Lon":151.2069902,
+    "Decade":1860
+  },
+  {
+    "caption":"[65] Proposed continuation of Pitt St to Bridge St from Hunter St [tank stream shown] [Sketch book 3 folio 41]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"1/01/1836",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000094.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000094.jpg",
+    "Lat":-33.8674869,
+    "Lon":151.2069902,
+    "Decade":1860
+  },
+  {
+    "caption":"[74] Proposed situation of the Exchange and the continuation of Pitt Street [Sketch book 3 folio 45]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"28/07/1836",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000103.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000103.jpg",
+    "Lat":-33.8813721,
+    "Lon":151.2062385,
+    "Decade":1860
+  },
+  {
+    "caption":"[76]  Memorial 663 for 28 3/4 at Kent Street [Sketch book 3 folio 48]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/01/1836",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000107.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000107.jpg",
+    "Lat":-33.8698578,
+    "Lon":151.2047084,
+    "Decade":1860
+  },
+  {
+    "caption":"[79] John Terry Hughes application for a piece of land at corner of Pitt and Bridge Street and sold to J. Jobbins [Sketch book 3 folio 50]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/01/1836",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000112.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X753]_a110_000112.jpg",
+    "Lat":-33.8635097,
+    "Lon":151.210139,
+    "Decade":1860
+  },
+  {
+    "caption":"Tracing from the Governors sketch [Macquarie Street and Bent Street] [Sketch book 4 folio 66]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000013.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000013.jpg",
+    "Lat":-33.8657737,
+    "Lon":151.2125368,
+    "Decade":1860
+  },
+  {
+    "caption":"Design for 10 buildings allotments at Grose Farm, Cooks River Road proposed for sale  [Sketch book 4 folio 70]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/01/1842",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000017.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000017.jpg",
+    "Lat":-34.0201124,
+    "Lon":151.0444833,
+    "Decade":1860
+  },
+  {
+    "caption":"Tracing shewing encroachment at Margaret Place [Sketch book 4 folio 72]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"25/01/1842",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000023.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000023.jpg",
+    "Lat":-33.8028177,
+    "Lon":151.1499421,
+    "Decade":1860
+  },
+  {
+    "caption":"Memorandum [re Old Botany Road] [Sketch book 4 folio 83]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"15/05/1842",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000045.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000045.jpg",
+    "Lat":-33.9140003,
+    "Lon":151.2010536,
+    "Decade":1860
+  },
+  {
+    "caption":"Plan shewing the encroachment on the Crown Land at the north end of the Old Botany Road 1842 [Sketch book 4 folio 87]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"27/04/1842",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000052.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000052.jpg",
+    "Lat":-33.9140003,
+    "Lon":151.2010536,
+    "Decade":1860
+  },
+  {
+    "caption":"Tracing shewing the encroachment of Mr Jones at the corner of George and Cumberland Streets [Sketch book 4 folio 93]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"18/08/1842",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000062.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000062.jpg",
+    "Lat":-34.0057861,
+    "Lon":150.8625811,
+    "Decade":1860
+  },
+  {
+    "caption":"Plan of the remaining portion of the Camperdown Estate on the south side of the Newtown Road [Sketch book 4 folio 93]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"21/05/1841",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000064.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000064.jpg",
+    "Lat":-33.9771171,
+    "Lon":150.8912172,
+    "Decade":1860
+  },
+  {
+    "caption":"Proposed division of part of the Government Paddock George Street South Sydney [Sketch book 4 folio 104]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"07/01/1843",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000082.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000082.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"Plan of Pottinger Street Sydney [Sketch book 4 folio 108]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"07/12/1842",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000091.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000091.jpg",
+    "Lat":-33.8566992,
+    "Lon":151.2061545,
+    "Decade":1860
+  },
+  {
+    "caption":"Pottinger Street from Windmill Street to be marked out and named [Sketch book 4 folio 108]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"25/10/1842",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000092.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X756]_a110_000092.jpg",
+    "Lat":-33.856711,
+    "Lon":151.2061663,
+    "Decade":1860
+  },
+  {
+    "caption":"Sketch from plan of Albion Street Sydney 1843 [Sketch book 4 folio 115]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/01/1843",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000006.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000006.jpg",
+    "Lat":-33.8832784,
+    "Lon":151.2131029,
+    "Decade":1860
+  },
+  {
+    "caption":"Tracing shewing church in Argyle Street [Sketch book 4 folio 146]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000042.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000042.jpg",
+    "Lat":-34.0536032,
+    "Lon":150.6982086,
+    "Decade":1860
+  },
+  {
+    "caption":"Tracing from plan sent in by Petitioners of Sussex Street shewing the wharfs in course of erection by Day & Kellick [Sketch book 4 folio 132]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"16/10/1843",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000043.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000043.jpg",
+    "Lat":-33.8708969,
+    "Lon":151.2038372,
+    "Decade":1860
+  },
+  {
+    "caption":"Allotments numbered between Chaise Creek and Botany Road [Sketch book 4 folio 134]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"07/09/1843",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000046.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000046.jpg",
+    "Lat":-33.9140003,
+    "Lon":151.2010536,
+    "Decade":1860
+  },
+  {
+    "caption":"Plan shewing the encroachment by Mr Nash in King Street [Sketch book 4 folio 73]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"11/02/1842",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000079.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000079.jpg",
+    "Lat":-33.901875,
+    "Lon":151.1789237,
+    "Decade":1860
+  },
+  {
+    "caption":"Allotments at Military Garden Parramatta Road [Sketch book 4 folio 155]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"14/07/1835",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000084.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000084.jpg",
+    "Lat":-33.8671717,
+    "Lon":151.0962241,
+    "Decade":1860
+  },
+  {
+    "caption":"York and Barrack Street Allots [Allotments] Nos [Numbers] 1 2 & 3 division made by Colonial Scretary's Office [blue lines] and Surveyor General [red lines] [Sketch book 4 folio 165]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"02/07/1831",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000099.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X757]_a110_000099.jpg",
+    "Lat":-33.8676759,
+    "Lon":151.2059063,
+    "Decade":1860
+  },
+  {
+    "caption":"Plan of old burial ground George Street. Proposed site for Town Hall [Sketch book 4 folio 174]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/09/1844",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X758]_a110_000003.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X758]_a110_000003.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"Proposed site for Mechanics School of Arts corner of Gipps and George Streets [Sketch book 4 folio 185]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"05/08/1844",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X758]_a110_000018.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X758]_a110_000018.jpg",
+    "Lat":-33.7019313,
+    "Lon":151.0994657,
+    "Decade":1860
+  },
+  {
+    "caption":"The Forest Lodge Allotments on the Parramatta Road adjoining the Archdeaconry and near the City Boundary [Sketch book 4 folio 193]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"03/06/1845",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X758]_a110_000038.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X758]_a110_000038.jpg",
+    "Lat":-33.8671717,
+    "Lon":151.0962241,
+    "Decade":1860
+  },
+  {
+    "caption":"Sydney - Mr Campbell for Church [O'Connell, Bligh, Hunter Streets] [Sketch book 4 folio 201]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X758]_a110_000060.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X758]_a110_000060.jpg",
+    "Lat":-33.8662468,
+    "Lon":151.2100539,
+    "Decade":1860
+  },
+  {
+    "caption":"[97] Survey shewing the encroachmentof the Concord Road on the property of G.I. Nichols at Longbottom [Sketch book 3 folio 59]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"27/01/1837",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000018.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000018.jpg",
+    "Lat":-33.8446117,
+    "Lon":151.0895289,
+    "Decade":1860
+  },
+  {
+    "caption":"[111] Charles Dowdells allotments at Pitt Street near Park Street [Sketch book 3 folio 60]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"05/01/1837",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000019.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000019.jpg",
+    "Lat":-33.8978057,
+    "Lon":151.2038799,
+    "Decade":1860
+  },
+  {
+    "caption":"[128] Airds order for an allotment. Corner of Church and George Streets [Sketch book 3 folio 70]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/01/1837",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000037.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000037.jpg",
+    "Lat":-33.7019313,
+    "Lon":151.0994657,
+    "Decade":1860
+  },
+  {
+    "caption":"[152] Old site for exchange proposed by His Excellency Sir Richard Bourke in Phillip Street [Sketch book 3 folio 82]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"29/11/1837",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000063.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000063.jpg",
+    "Lat":-33.8654179,
+    "Lon":151.211389,
+    "Decade":1860
+  },
+  {
+    "caption":"[189] Plan of an allotment in Parramatta St. applied for by R. Blackwell [Sketch book 3 folio 99]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"29/07/1841",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000099.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000099.jpg",
+    "Lat":-34.0600063,
+    "Lon":151.1534107,
+    "Decade":1860
+  },
+  {
+    "caption":"[195] Unwins application to purchase at the proposed continuation of George Street  [Sketch book 3 folio 102]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"31/12/1838",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000103.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000103.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"[194] Unwins application to purchase at the proposed continuation of George Street  [Sketch book 3 folio 101]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"12/10/1838",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000104.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000104.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"Sketch shewing the northerly continuation of the building line of Castlereagh, Phillip, Elizabeth and Macquarie Streets [Sketch book 3 folio 111]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"17/01/1839",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000123.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X754]_a110_000123.jpg",
+    "Lat":-33.863281,
+    "Lon":151.2128885,
+    "Decade":1860
+  },
+  {
+    "caption":"[11] [No. 1 St Andrew Parish, No. 2 St Phillip Parish, No. 3 Sussex Street, Darling Bay, No. 4 St Andrew Parish, No. 5 St Phillip Parish. Sketch book 1 folio 1]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000011.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000011.jpg",
+    "Lat":-33.766208,
+    "Lon":151.085032,
+    "Decade":1860
+  },
+  {
+    "caption":"[14] Sketch shewing site for a wharf and water mill at Port Macquarie [Sketch book 1 folio 2 Sydney St Phillip]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000014.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000014.jpg",
+    "Lat":-33.80788,
+    "Lon":151.192417,
+    "Decade":1860
+  },
+  {
+    "caption":"[17] 6 sketches J.T Campbell, Sir J Jamieson, WH Moore, W Wemyss, Gov't [Government] Grammar School grant, Scotch Church [Sketch book 1 folio 3 J.T Campbells allotemnt corner of Hunter and Phillip St",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000017.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000017.jpg",
+    "Lat":-33.8654179,
+    "Lon":151.211389,
+    "Decade":1860
+  },
+  {
+    "caption":"[19] York Street Barrack Lane Clergy and school Estate [Sketch book 1 folio 4  Rowes and Raymond Clergy and school estate allotments corner of York and Barrack St]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000019.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000019.jpg",
+    "Lat":-33.865557,
+    "Lon":151.205367,
+    "Decade":1860
+  },
+  {
+    "caption":"[32] Sussex Street Market Wharf Darling Harbour [Sketch book 1 folio 9]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000032.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000032.jpg",
+    "Lat":-33.902469,
+    "Lon":150.934829,
+    "Decade":1860
+  },
+  {
+    "caption":"[35] An allotment situated in Gloucester street originally leased to William O'Neal now acquired for by Mr Robert Cooper containing 9 1/2 rod [Sketch book 1 folio 9]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000035.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000035.jpg",
+    "Lat":-33.8901585,
+    "Lon":150.8646758,
+    "Decade":1860
+  },
+  {
+    "caption":"[36] Sketch shewing the Road now used by the Inhabitants of Cooks Rover and part of the marked line towards Liverpool with a branch road to Cook's River Sketch book 1 folio 10]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000036.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000036.jpg",
+    "Lat":46.1803157,
+    "Lon":-60.017669,
+    "Decade":1860
+  },
+  {
+    "caption":"[38] Presbyterian Church St Phillips Charlotte Place [Sketch book 1 folio 11]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000038.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000038.jpg",
+    "Lat":-33.8674869,
+    "Lon":151.2069902,
+    "Decade":1860
+  },
+  {
+    "caption":"[40] Catherine McLeods Allot [allotment] Park St Castlereagh [Sketch book 1 folio 11]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000040.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000040.jpg",
+    "Lat":-33.8732784,
+    "Lon":151.209674,
+    "Decade":1860
+  },
+  {
+    "caption":"[44] An allotment applied for by Thomas Fuller. No. [number] 94 Kent Street [Sketch book 1 folio 13]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000044.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000044.jpg",
+    "Lat":-33.860542,
+    "Lon":151.203947,
+    "Decade":1860
+  },
+  {
+    "caption":"[45] An allotment applied for by William Dunn on East King Street. King and Pitt Streets [Sketch book 1 folio 13]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000045.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000045.jpg",
+    "Lat":-33.8689057,
+    "Lon":151.2083175,
+    "Decade":1860
+  },
+  {
+    "caption":"[46] An allotment applied fro by Henry Bond in Upper Pitt Street [Sketch book1 folio 13]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000046.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000046.jpg",
+    "Lat":-33.8813721,
+    "Lon":151.2062385,
+    "Decade":1860
+  },
+  {
+    "caption":"[51] An Allotment for Reuben Hannon in Bathurst Street. E. Knapp draftsman [Sketch book 1 folio 14]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000051.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000051.jpg",
+    "Lat":-33.8742857,
+    "Lon":151.2058209,
+    "Decade":1860
+  },
+  {
+    "caption":"[52] An allotment applied for by Wm [William] Hodges on the Southside of West King Street and East side of Kent Street [Sketch book 1 folio15]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000052.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000052.jpg",
+    "Lat":-33.9323136,
+    "Lon":151.0729998,
+    "Decade":1860
+  },
+  {
+    "caption":"[54] Gibbon's Allotment Kent St Market St [Sketch book 1 folio 15]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000054.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000054.jpg",
+    "Lat":-33.8674869,
+    "Lon":151.2069902,
+    "Decade":1860
+  },
+  {
+    "caption":"[55] Military Hospital Princes St. James Scott [Sketch book 1 folio 15]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000055.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000055.jpg",
+    "Lat":-33.8184083,
+    "Lon":151.106874,
+    "Decade":1860
+  },
+  {
+    "caption":"[57] Survey of allotments No. [number] 1 and  2 and 3 at the Military Garden Parramatta Road [Sketch book 1 folio 16]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"31/01/1832",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000057.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000057.jpg",
+    "Lat":-33.8671717,
+    "Lon":151.0962241,
+    "Decade":1860
+  },
+  {
+    "caption":"[62] Sketch of the piece of ground applied for near Cockle Bay by Andrew Byrne shewing its relative situation to Argyle Street [Sketch book 1 folio 17]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000062.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000062.jpg",
+    "Lat":-34.0536032,
+    "Lon":150.6982086,
+    "Decade":1860
+  },
+  {
+    "caption":"[63] Allotment for Joshua Holt contg [containing] 0a [acres] 2r [roods] 13p [perches] George Street [Sketch book 1 folio17]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000063.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000063.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"[67] Allotments at Military Garden Parramatta Road 5a [Acres] 0r [rood] 35p [perches] [Sketch book 1 folio 18]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000067.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000067.jpg",
+    "Lat":-33.8671717,
+    "Lon":151.0962241,
+    "Decade":1860
+  },
+  {
+    "caption":"[71] Darling Harbour - T.H. James Sussex Street [Sketch book 1 folio 18]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"30/08/1830",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000071.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000071.jpg",
+    "Lat":-33.8708969,
+    "Lon":151.2038372,
+    "Decade":1860
+  },
+  {
+    "caption":"[82] Bligh Street, Hunter Street, Elizabet Street, Castlereagh Street [Houses at the corner of Hunter and Bligh St and opposite. Sketch book 1 folio 21]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000082.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000082.jpg",
+    "Lat":-34.042386,
+    "Lon":151.067414,
+    "Decade":1860
+  },
+  {
+    "caption":"[84] Mr William Walsh's allotment containing 0a [acres] 0r [roods] 9p [perches] Harrington Street",
+    "title":"Surveyor General [I]",
+    "dateofwork":"18/03/1829",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000084.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000084.jpg",
+    "Lat":-33.8633347,
+    "Lon":151.2063538,
+    "Decade":1860
+  },
+  {
+    "caption":"[85] Mr Charles Thompsons allotment containing 0a [acres] or [roods] 9p [perches] O'Connell Street [Sketch book1 folio 21]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"04/03/1829",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000085.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000085.jpg",
+    "Lat":-33.8079976,
+    "Lon":151.0016898,
+    "Decade":1860
+  },
+  {
+    "caption":"[86] Abraham Hearne's allotment George Street [Sketch book 1 folio 27]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"25/10/1828",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000086.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000086.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"[87] Govt [Government] windmill Princes Street. [Grant] applied] for by W. Florence",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000087.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000087.jpg",
+    "Lat":-33.8184083,
+    "Lon":151.106874,
+    "Decade":1860
+  },
+  {
+    "caption":"[104] [Continuation of Campbell Street adjoining Mackanness property. Sketch book 1 folio26]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000104.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000104.jpg",
+    "Lat":-33.8802805,
+    "Lon":151.2109993,
+    "Decade":1860
+  },
+  {
+    "caption":"[108] [Watch House Number 1 Clarence St and Mrs Cate Longs allotment adjoining Sketch book 1 folio27]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"26/08/1828",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000108.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000108.jpg",
+    "Lat":-33.864558,
+    "Lon":151.20517,
+    "Decade":1860
+  },
+  {
+    "caption":"[109] [Will Connor's allotment York Street. Sketch book 1 folio 27]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"26/08/1828",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000109.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000109.jpg",
+    "Lat":-33.8679296,
+    "Lon":151.2059354,
+    "Decade":1860
+  },
+  {
+    "caption":"[110] [Thomas Barker's allotement corner of Bathurst and Sussex Streets. Sketch book 1 folio 27]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000110.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000110.jpg",
+    "Lat":-33.8708969,
+    "Lon":151.2038372,
+    "Decade":1860
+  },
+  {
+    "caption":"[112] The colour pink shews Mr Wilsons allotment and the blue denotes the encroachment complained [George Street. Sketch book 1 folio 27]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"04/03/1829",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000112.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000112.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"[118] [John Smith, Thomas Maher and Lucy Harding facing Pitt Street. Sketch book 1 folio 31]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000118.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000118.jpg",
+    "Lat":-33.8813721,
+    "Lon":151.2062385,
+    "Decade":1860
+  },
+  {
+    "caption":"[145] An allotment leased to John Boylan in Phillip St (a) shews  the encroachment complained of in his letter to the Colonial Secretary - Jany [January] 6th 1829",
+    "title":"Surveyor General [I]",
+    "dateofwork":"19/01/1829",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000145.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000145.jpg",
+    "Lat":-33.8654179,
+    "Lon":151.211389,
+    "Decade":1860
+  },
+  {
+    "caption":"[146]Charles Farrell Darling Harbour Kent St [Sketch book 1 folio 39]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/01/1829",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000146.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000146.jpg",
+    "Lat":-33.8698578,
+    "Lon":151.2047084,
+    "Decade":1860
+  },
+  {
+    "caption":"[147] E M Burrows Kent St [Sketch book 1 folio 39]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000147.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000147.jpg",
+    "Lat":-33.8698578,
+    "Lon":151.2047084,
+    "Decade":1860
+  },
+  {
+    "caption":"[148 ]Middle Harbour Lane Cove [Josiah] Hicks. Drafted by James Larmer [Sketch book 1 folio 40]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/10/1830",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000148.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000148.jpg",
+    "Lat":-33.7932531,
+    "Lon":151.212756,
+    "Decade":1860
+  },
+  {
+    "caption":"[156] James Ramplings Allotment in Argyle Street Parish of St Phillips [Sketch book 1 folio 41]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"30/03/1829",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000156.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000156.jpg",
+    "Lat":-37.7168133,
+    "Lon":144.9622876,
+    "Decade":1860
+  },
+  {
+    "caption":"[158] Allotment claimed by My Geo. [George] Brown. Goulburn St Elizabeth St [Sketch book 1 folio 41]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"20/01/1829",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000158.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000158.jpg",
+    "Lat":-33.878093,
+    "Lon":151.2074458,
+    "Decade":1860
+  },
+  {
+    "caption":"[160] Sketch shewing the Lands claimed by Mr Gore in the Parish of Willoughby. Lane Cove River [Sketch book 1 folio 41]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000160.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000160.jpg",
+    "Lat":-33.8253439,
+    "Lon":151.2019139,
+    "Decade":1860
+  },
+  {
+    "caption":"[163] An allotment in Bathurst Street applied for by David Ramsay. Darling Harbour",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000163.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000163.jpg",
+    "Lat":-33.8742857,
+    "Lon":151.2058209,
+    "Decade":1860
+  },
+  {
+    "caption":"[164] Square [An allotment in Bathurst Street applied for by David Ramsay. Darling Harbour. Sketch book 1 folio 43]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000164.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000164.jpg",
+    "Lat":-33.8742857,
+    "Lon":151.2058209,
+    "Decade":1860
+  },
+  {
+    "caption":"[165] George Street a) Mr Horton James Allotment b) Mr Pauls Allotment c) Mr Malcolms Allotment [Sketch book 1 folio 43]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000165.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000165.jpg",
+    "Lat":-33.8734267,
+    "Lon":151.2069388,
+    "Decade":1860
+  },
+  {
+    "caption":"[171] Allotment of Timy [Timothy] Hill in Kent Street [Sketch book 1 folio 45]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000171.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000171.jpg",
+    "Lat":-33.8698578,
+    "Lon":151.2047084,
+    "Decade":1860
+  },
+  {
+    "caption":"[173] Cox's River Crown Reserve. Road to Bathurst [Sketch book 1 folio 45]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000173.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000173.jpg",
+    "Lat":-33.8162488,
+    "Lon":151.1870999,
+    "Decade":1860
+  },
+  {
+    "caption":"[177] Part of the Windsor Road shewing the land claimed by Jos  Seville [Sketch book1 folio 54]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"03/01/1832",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000177.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000177.jpg",
+    "Lat":-33.6937329,
+    "Lon":150.9249348,
+    "Decade":1860
+  },
+  {
+    "caption":"[179] The Military Barracks Princes Street, Church Hill. J.S Townsend - Surveyor [Sketch book 1 folio 50]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"04/01/1832",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000179.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000179.jpg",
+    "Lat":-33.8184083,
+    "Lon":151.106874,
+    "Decade":1860
+  },
+  {
+    "caption":"[191] Parramatta Town Allotment Encroachment by James Elder. Phillip St Smith St. Parramatta  River [Sketch book 1 folio 55]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000191.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000191.jpg",
+    "Lat":-33.8674869,
+    "Lon":151.2069902,
+    "Decade":1860
+  },
+  {
+    "caption":"[209] The dotted lines shew the spot Mr Atkinson wishes for and the proposed communication with new Southern Road [Sketch book 1 folio 61]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000209.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000209.jpg",
+    "Lat":-33.9191814,
+    "Lon":151.2288518,
+    "Decade":1860
+  },
+  {
+    "caption":"[232] Sketch of part of the range traced by Mr Stapylton from Bilpin to the Colow road proposed as a reserve for small farms [Sketch book 1 folio 73]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"08/03/1830",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000232.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000232.jpg",
+    "Lat":-33.4132435,
+    "Lon":150.7626396,
+    "Decade":1860
+  },
+  {
+    "caption":"[234] Eliza Lane J. Stubbs S. North, Levers, H. Duglins",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000234.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000234.jpg",
+    "Lat":-33.8971542,
+    "Lon":151.1790475,
+    "Decade":1860
+  },
+  {
+    "caption":"[235] Parramatta River George Street J. Macarthur Comt [Commissariat] Store",
+    "title":"Surveyor General [I]",
+    "dateofwork":"05/09/1830",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000235.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000235.jpg",
+    "Lat":-33.8706675,
+    "Lon":151.2069377,
+    "Decade":1860
+  },
+  {
+    "caption":"[240] Gov't [Government] Windmill Princes Street, continuation of Kent Street",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000240.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000240.jpg",
+    "Lat":-37.794684,
+    "Lon":144.9005576,
+    "Decade":1860
+  },
+  {
+    "caption":"[241] Allotments of Samuel Mason and John Ward in O'Connell Street Parramatta Horticultural Garden ",
+    "title":"Surveyor General [I]",
+    "dateofwork":"08/10/1829",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000241.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000241.jpg",
+    "Lat":-33.8079976,
+    "Lon":151.0016898,
+    "Decade":1860
+  },
+  {
+    "caption":"[263] Military Barrack Square. Clarance Street. Kent Street",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000263.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000263.jpg",
+    "Lat":-33.8629856,
+    "Lon":151.2038426,
+    "Decade":1860
+  },
+  {
+    "caption":"[266] Plan of the East end of Windmill Street shewing an allotment purchased by Clark from Mrs Layton being part of the Government Reserve [Sketch book 1 folio 83]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"11/08/1831",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000266.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000266.jpg",
+    "Lat":-33.8576448,
+    "Lon":151.2041258,
+    "Decade":1860
+  },
+  {
+    "caption":"[276] Plan of an allotment belonging to Mr Horton James. Princes Street [Sketch book1 folio 86]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000276.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000276.jpg",
+    "Lat":-33.8184083,
+    "Lon":151.106874,
+    "Decade":1860
+  },
+  {
+    "caption":"[278] Plan of allotment belonging to Eleanor Dunningan [Dunningans 3 children property facing Kent and Clarence Streets. Sketch book 1 folio 86]]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"27/01/1831",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000278.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000278.jpg",
+    "Lat":-33.8682319,
+    "Lon":151.205204,
+    "Decade":1860
+  },
+  {
+    "caption":"[281] Plan of a town allotment given to W.H. Chapman in lieu of land given by him in Windmill St [Sketch book 1 folio 87]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"01/05/1832",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000281.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000281.jpg",
+    "Lat":-33.8576448,
+    "Lon":151.2041258,
+    "Decade":1860
+  },
+  {
+    "caption":"[286] George Sippi Castlereagh Street [Sketch book 1 folio 88]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"09/12/1830",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000286.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000286.jpg",
+    "Lat":-33.8718523,
+    "Lon":151.2093628,
+    "Decade":1860
+  },
+  {
+    "caption":"[289] Copy of a sketch transmitted thorugh this offie to the Colonial Secretary in letter No 31/58 of the Director of Public Works - shewing an allotment in Harrington Street formerly the residence of the Master Attendant - but sold by public auction on 24th Jult 1828 to Mr Danial Egan [Sketch book 1 folio 89]",
+    "title":"Surveyor General [I]",
+    "dateofwork":"15/02/1831",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000289.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000289.jpg",
+    "Lat":-33.8633347,
+    "Lon":151.2063538,
+    "Decade":1860
+  },
+  {
+    "caption":"[304] Cabramatta Creek - church and school, glebe, Bringelly Road",
+    "title":"Surveyor General [I]",
+    "dateofwork":"",
+    "highreslink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000304.jpg",
+    "thumbnaillink":"https://latershot.blob.core.windows.net/staterecord/NRS13886[X751]_a110_000304.jpg",
+    "Lat":-33.9474106,
+    "Lon":150.784697,
+    "Decade":1860
+  }
+]
